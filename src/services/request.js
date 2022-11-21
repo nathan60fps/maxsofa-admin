@@ -1,6 +1,6 @@
 import axios from "axios"
 
-let baseURL = "https://maxsofa-store.herokuapp.com/"
+let baseURL = "https://maxsofa-store.herokuapp.com"
 
 // deprecated
 if (process.env.GATSBY_STORE_URL) {
