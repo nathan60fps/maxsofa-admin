@@ -1,7 +1,6 @@
 import axios from "axios"
 
-let baseURL =
-  "http://awsmaxsofaserver-env-1.eba-kkqpiqvd.us-east-1.elasticbeanstalk.com"
+let baseURL = "https://maxsofa-store.herokuapp.com/"
 
 // deprecated
 if (process.env.GATSBY_STORE_URL) {
